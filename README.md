@@ -1,4 +1,8 @@
-## Hi there 👋
+# About Me
+
+Hello, my name is Ashley Tucker and welcome to my github! I am a very passionate game developer who has created many games throughout my time at college and plan to continue creating games that inspire change throughout my future career.
+
+I started programming in my last year of high school with Python, and I was instantly hooked. I decided to pursue it into college, and combine it with my passion for games that I have had all my life. Since attending college, I have become very adept in many different languages and created amazing and impactful games alongside my peers. I hope to keep pushing myself farther and farther to help push the envelope on what a game can be throughout my career. 
 
 <!--
 **tuck38/tuck38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
