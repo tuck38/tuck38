@@ -17,3 +17,9 @@ I started programming in my last year of high school with Python, and I was inst
   
 - ⚡ Favorite games: I grew up with MMOs such as Wizard101 and Club Penguin, and continue playing those types of games with Destiny 2, Star Wars: The Old Republic, and Pirate101
   
+## Skills
+![Static Badge](https://img.shields.io/badge/unity-blue)  ![Static Badge](https://img.shields.io/badge/unreal-lightblue) ![Static Badge](https://img.shields.io/badge/C%2B%2B-purple) ![Static Badge](https://img.shields.io/badge/C%23-purple) ![Static Badge](https://img.shields.io/badge/scrum-blue) ![Static Badge](https://img.shields.io/badge/agile-red)
+
+
+
+ 
