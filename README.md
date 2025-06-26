@@ -9,7 +9,7 @@ I started programming in my last year of high school with Python, and I was inst
   
 - 🌱 I’m currently brushing up on my unity skills, and trying to learn C++ in Unreal Engine! Blueprints and visual coding are nice, but they have limitations that are not present in normal code.
   
-- 💬 Ask me about indie game projects!
+- 💬 Ask me about my personal indie game projects! I have 2 that im currently working on while trying to look for a more permanent position, one in Unity and one in Unreal!
   
 - 📫 How to reach me: I can be reached through my website https://tuckdev.wordpress.com/
   
